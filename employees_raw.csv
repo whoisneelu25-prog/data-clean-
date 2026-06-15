@@ -1,0 +1,16 @@
+id,name,email,age,salary,join_date,department,phone
+1,Alice Johnson,alice@example.com,29,55000,2021-03-15,Engineering,555-1234
+2,BOB SMITH,bob@EXAMPLE.COM,,62000,15/04/2020,engineering,5559876
+3,Alice Johnson,alice@example.com,29,55000,2021-03-15,Engineering,555-1234
+4,Carol White,carol.white@example.com,35,N/A,2019-07-01,Marketing,555-4321
+5,dave brown,dave@example,42,48000,2022-01-30,HR,
+6,,eve@example.com,31,71000,2020-11-22,Engineering,555-6789
+7,Frank Green,frank@example.com,-5,85000,March 10 2018,Finance,555-2468
+8,Grace Hall,grace@example.com,27,,2023-05-19,Marketing,555-1357
+9,Hank Lee,hank@example.com,300,52000,2021-08-08,HR,555-8642
+10,Ivy Chen,ivy@example.com,26,61000,2024/02/14,Engineering,555-9753
+11,BOB SMITH,bob@example.com,,62000,2020-04-15,Engineering,5559876
+12,Jack Kim,jack@example.com,38,999999,2017-12-01,Finance,555-3579
+13,Karen Patel,karen@example.com,44,58000,2018-06-30,Marketing,
+14,Leo Torres,leo@,55,47000,2022-09-10,HR,555-7531
+15,Mia Nguyen,mia@example.com,33,63000,2021-11-25,Engineering,555-8024
